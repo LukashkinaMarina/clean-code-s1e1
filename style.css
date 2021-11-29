@@ -73,6 +73,10 @@
   color: #3a3A3a;
 }
 
+add-item {
+  margin-top: 16px;
+}
+
 /* Heading */
 .list-header,
 .caption[for="new-task"] {
