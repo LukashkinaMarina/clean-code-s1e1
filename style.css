@@ -43,7 +43,8 @@
 .list-item, .list-header {
   list-style:none;
 }
-.common-input,.common-button {
+.common-input,
+.common-button {
   outline:none;
 }
 .common-button {
